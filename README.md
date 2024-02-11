@@ -7,7 +7,7 @@ How to run the project
 Why its noteworthy
 Who maintains the project
 Weather_Tracking_Web_app
-Technology:
+# h1 Technology:
 
 API
 React
