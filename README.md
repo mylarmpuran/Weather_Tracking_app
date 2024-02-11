@@ -9,6 +9,6 @@ Who maintains the project
 Weather_Tracking_Web_app
 # h1 Technology:
 
-API
-React
-Tailwind
+1. API
+2. React
+3. Tailwind
